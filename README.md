@@ -8,8 +8,8 @@
 
 # Libraries
 
-   ### Libraries used include, Leaflet for the Stadia basemap, VS Studio to write the code, GeoJson for implementing the markers for the circles as well as implementing the data. Excel for sorting and organizing my dataset. 
+   ### Libraries used include, Leaflet for the Carto DB basemap, VS Studio to write the code, GeoJson for implementing the markers for the circles as well as implementing the data. Excel for sorting and organizing my dataset. 
 
 # Data Sources
 
-   ### Data sources include world population review for my data on cancer rates across US states in 2025, and Stadia maps for the basemap through Leaflet. 
+   ### Data sources include world population review for my data on cancer rates across US states in 2025, and Carto DB maps for the basemap through Leaflet. 
